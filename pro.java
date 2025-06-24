@@ -6,6 +6,7 @@ int b = 0;
 int suma = a+b;
 System.out.println("Hola," + nombre + "!");
 System.out.println("La suma de"+ a +"+"+ b +"es:"+ suma);
+System.out.println("maya camila cajina jiron 2025-3761U");
 
 }
 }
